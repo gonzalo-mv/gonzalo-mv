@@ -5,7 +5,6 @@
 
 - 📫 You can reach me at **gmartinezvisintini@gmail.com** or visit my website: [gonzalomv.com](https://gonzalomv.com)
 
-- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Gonzalo</h1>
-<h3 align="center">A passionate Data Analyst and Backend Trainee from Argentina</h3>
+<h1 align="center">Hello 👋, I'm Gonzalo</h1>
+<h3 align="center">A passionate Web Developer from Argentina</h3>
 
-- 🔭 I’m currently working on **a suscription sistem**
+- 🔭 I'm currently working as a freelancer and expanding my skill set
 
-- 🌱 I’m currently learning **sql**
+- 📫 You can reach me at **gmartinezvisintini@gmail.com** or visit my website: [gonzalomv.com](https://gonzalomv.com)
 
-- 📫 How to reach me **gmartinezvisintini@gmail.com**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

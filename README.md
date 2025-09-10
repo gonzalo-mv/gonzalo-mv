@@ -4,6 +4,8 @@
 
 **Full Stack Developer • Construyo sistemas que funcionan • De procesos manuales a automáticos**
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gonzamv-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gonzamv)
 [![Portfolio](https://img.shields.io/badge/Portfolio-gonzalo--mv.xyz-4A7C4A?style=for-the-badge&logo=safari&logoColor=white)](https://gonzalo-mv.xyz)
 [![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gmartinezvisintini@gmail.com)
@@ -14,56 +16,65 @@
 
 ## Sobre mi
 
-```javascript
-const gonzalo = {
-    rol: "Full Stack Developer @ KeySoftworks",
-    enfoque: "Entiendo el negocio antes de escribir codigo",
-    logro_actual: "ERP completo con 15+ modulos en 8 meses",
-    filosofia: "El mejor codigo es el que no necesita manual"
-};
-```
+**Full Stack Developer @ KeySoftworks**
 
-Trabajo en **KeySoftworks** desarrollando sistemas de gestion empresarial. Mi enfoque es crear software que realmente se use: interfaces intuitivas y backends solidos que resuelven problemas operativos concretos.
+Entiendo el negocio antes de escribir código. Mi logro actual: ERP completo con 15+ módulos en 8 meses.
+
+> *"El mejor código es el que no necesita manual"*
+
+Trabajo desarrollando sistemas de gestión empresarial. Mi enfoque es crear software que realmente se use: interfaces intuitivas y backends sólidos que resuelven problemas operativos concretos.
 
 ---
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%">
 
 ## 💼 Proyectos en Produccion
 
 ### 🚛 **KeyRutas ERP**
 Sistema completo para empresas de transporte. Gestión integral de flota, viajes, choferes, gastos y mantenimiento. Arquitectura modular con IA integrada para automatización de procesos.
 
-**Stack:** `Laravel` `MySQL` `Alpine.js` `Google Vision AI`
+**Stack:** `Laravel` `MySQL` `Alpine.js` `Livewire` `Tailwind CSS`  
 
 ---
 
 ### 🛒 [**KeyTienda**](https://keysoftworks.com/sistemas/keytienda)
 E-commerce con inventario en tiempo real, carrito de compras y panel administrativo completo. Pensado para el comercio argentino.
 
-**Stack:** `Laravel` `Alpine.js` `MySQL`
+**Stack:** `Laravel` `Alpine.js` `MySQL` `Tailwind CSS`  
 
 ---
 
 ### 🔐 [**KeyRTO**](https://rto.keysoftworks.com)
-Sistema gubernamental para certificados RTO con verificación QR. Múltiples capas de seguridad y trazabilidad completa.
+Sistema para certificados gubernamentales RTO con verificación QR. Múltiples capas de seguridad y trazabilidad completa.
 
-**Stack:** `Laravel` `MySQL` `JavaScript`
+**Stack:** `Laravel` `MySQL` `Alpine.js` `Tailwind CSS`   
 
 ---
 
 ### 🌐 [**KeySoftworks Website**](https://keysoftworks.com)
-Landing corporativa con showcase de productos, optimizada para SEO y conversión.
+Landing con showcase de productos, optimizada para SEO y conversión.
 
 **Stack:** `Astro` `TypeScript` `Tailwind CSS`
 
 ---
 
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
+</div>
+
 ## 🛠️ Tecnologías
 
-**Backend:** PHP • Laravel • MySQL  
+**Backend:** PHP • Laravel • MySQL • Livewire • Blade  
 **Frontend:** Alpine.js • JavaScript • HTML • CSS  
 **Styling:** Tailwind CSS  
-**Tools:** Astro • TypeScript  
-**APIs:** Google Vision AI • Integraciones REST  
+**Tools:** Astro • TypeScript • Notion • Miro • GSAP  
+**APIs:** Google Vision AI • Gemini API • Integraciones REST  
 
 ---
 
@@ -72,20 +83,7 @@ Landing corporativa con showcase de productos, optimizada para SEO y conversión
 - **Tecnico en Desarrollo de Software** - ITU UNCUYO (2do año en curso)
 - **Google Data Analytics Specialization** - Coursera
 - **EF SET C1 Advanced English**
-- Certificaciones en Laravel, SQL, BigQuery
 
----
-
-## 🌟 Mi Filosofia
-
-> **"Transformar procesos manuales en sistemas que funcionan solos"**
-
-1. **Entiendo el problema** antes de proponer la solucion
-2. **Automatizo lo repetitivo** - De 30 minutos a 2 minutos
-3. **Mido todo** - Si no tiene metricas, no existe
-4. **Itero rapido** - MVP en semanas, no meses
-
----
 
 ## 🤝 Conectemos
 
@@ -106,6 +104,11 @@ Landing corporativa con showcase de productos, optimizada para SEO y conversión
 - 🌱 La IA no nos va a reemplazar, pero sí a los que no la usen
 - 📚 Leo documentación por diversión
 - 🎮 Dark mode everywhere
+
+<div align="center">
+  <img src="https://github.com/mayhemantt/mayhemantt/blob/main/icons/coffee.gif" width="50">
+  <em>Actually mate, not coffee ☝️</em>
+</div>
 
 ---
 

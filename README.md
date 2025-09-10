@@ -1,175 +1,116 @@
 <div align="center">
 
-# 🚀 console.log("Hola, soy Gonzalo!");
+# Hola! Soy Gonzalo 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=4A7C4A&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Construyo+ERPs+que+la+gente+usa;Automatizo+lo+que+otros+hacen+manual;8+meses+%3D+15%2B+modulos+en+produccion" alt="Typing SVG" />
+**Full Stack Developer • Construyo sistemas que funcionan • De procesos manuales a automáticos**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gonzamv-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gonzamv)
 [![Portfolio](https://img.shields.io/badge/Portfolio-gonzalo--mv.xyz-4A7C4A?style=for-the-badge&logo=safari&logoColor=white)](https://gonzalo-mv.xyz)
-[![Email](https://img.shields.io/badge/Email-gmartinezvisintini-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gmartinezvisintini@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gmartinezvisintini@gmail.com)
 
 </div>
 
 ---
 
-## 🎯 TL;DR - Lo que necesitas saber
+## Sobre mi
 
 ```javascript
 const gonzalo = {
     rol: "Full Stack Developer @ KeySoftworks",
-    mision: "Transformar procesos manuales en sistemas que funcionan solos",
-    logro_reciente: "Desarrolle un ERP completo desde cero en 8 meses",
-    superpoder: "Entiendo el negocio antes de escribir codigo",
-    
-    stats: {
-        tiempo_procesamiento: "30min -> 2min con IA",
-        operaciones_diarias: "+1000 sin caidas",
-        modulos_integrados: 15,
-        cafe_consumido: "Infinity"
-    }
+    enfoque: "Entiendo el negocio antes de escribir codigo",
+    logro_actual: "ERP completo con 15+ modulos en 8 meses",
+    filosofia: "El mejor codigo es el que no necesita manual"
 };
 ```
 
----
-
-## 🛠️ Mi Stack (El que uso de verdad, no el que esta de moda)
-
-<div align="center">
-
-### Backend - Donde la magia sucede
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP_8.2-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### Frontend - Lo que el usuario ve (y debe funcionar)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpine.js&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### IA & Automatizacion - Mi arma secreta
-![Google Cloud](https://img.shields.io/badge/Google_Vision_AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![API](https://img.shields.io/badge/APIs_REST-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-</div>
+Trabajo en **KeySoftworks** desarrollando sistemas de gestion empresarial. Mi enfoque es crear software que realmente se use: interfaces intuitivas y backends solidos que resuelven problemas operativos concretos.
 
 ---
 
-## 💼 Proyectos que estan en produccion (no en localhost)
+## 💼 Proyectos en Produccion
 
-### 🚛 **KeyRutas ERP** - Mi bebe de 15 modulos
-> Sistema completo para empresas de transporte que maneja TODO: flota, viajes, choferes, gastos, mantenimiento...
+### 🚛 **KeyRutas ERP**
+Sistema completo para empresas de transporte. Gestión integral de flota, viajes, choferes, gastos y mantenimiento. Arquitectura modular con IA integrada para automatización de procesos.
 
-**Impact Metrics:**
-- ⚡ **83%** menos tiempo en procesos operativos
-- 🤖 **OCR con IA** que lee tickets y los carga solo
-- 📊 **Dashboard real-time** que los gerentes aman
-- 🔧 **Alertas predictivas** antes que se rompa el camion
-
-**Tech:** `Laravel 10` `MySQL` `Alpine.js` `Google Vision AI` `TailwindCSS`
+**Stack:** `Laravel` `MySQL` `Alpine.js` `Google Vision AI`
 
 ---
 
-### 🛒 **KeyTienda** - E-commerce que vende
-> No es otro Shopify. Es un sistema que entiende el negocio argentino.
+### 🛒 [**KeyTienda**](https://keysoftworks.com/sistemas/keytienda)
+E-commerce con inventario en tiempo real, carrito de compras y panel administrativo completo. Pensado para el comercio argentino.
 
-- 📦 Inventario sincronizado en tiempo real
-- 💳 Multiples medios de pago (si, incluye transferencia)
-- 📱 Mobile-first (porque el 70% compra desde el celu)
+**Stack:** `Laravel` `Alpine.js` `MySQL`
 
 ---
 
-### 🔐 **KeyRTO** - Certificados gubernamentales seguros
-> Sistema para RTO con seguridad nivel paranoia (como debe ser)
+### 🔐 [**KeyRTO**](https://rto.keysoftworks.com)
+Sistema gubernamental para certificados RTO con verificación QR. Múltiples capas de seguridad y trazabilidad completa.
 
-- 🛡️ Encriptacion + Rate limiting + IP blocking
-- 📄 QR verificables publicamente
-- ✅ 0 certificados falsificados
+**Stack:** `Laravel` `MySQL` `JavaScript`
 
 ---
 
-## 📈 GitHub Stats (Los numeros no mienten)
+### 🌐 [**KeySoftworks Website**](https://keysoftworks.com)
+Landing corporativa con showcase de productos, optimizada para SEO y conversión.
 
-<div align="center">
-<table>
-<tr>
-<td>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gonzalo-mv&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4A7C4A&text_color=c9d1d9&icon_color=4A7C4A)
-
-</td>
-<td>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalo-mv&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=4A7C4A&text_color=c9d1d9)
-
-</td>
-</tr>
-</table>
-
-</div>
+**Stack:** `Astro` `TypeScript` `Tailwind CSS`
 
 ---
 
-## 🎓 Formacion continua (Nunca paro de aprender)
+## 🛠️ Tecnologías
 
-```yaml
-formal:
-  - carrera: "Tecnico en Desarrollo de Software"
-    universidad: "ITU - UNCUYO"
-    estado: "2do año en curso"
-    
-certificaciones:
-  - Google Data Analytics Specialization ✅
-  - EF SET C1 Advanced English ✅
-  - Laravel Mastery (Board Infinity) ✅
-  - SQL para BigQuery (Google Cloud) ✅
-  
-proximo_objetivo: "AWS Solutions Architect"
-```
+**Backend:** PHP • Laravel • MySQL  
+**Frontend:** Alpine.js • JavaScript • HTML • CSS  
+**Styling:** Tailwind CSS  
+**Tools:** Astro • TypeScript  
+**APIs:** Google Vision AI • Integraciones REST  
 
 ---
 
-## 🌟 Mi filosofia de desarrollo
+## 🎓 Formacion
 
-> **"El mejor codigo es el que no necesita manual de usuario"**
+- **Tecnico en Desarrollo de Software** - ITU UNCUYO (2do año en curso)
+- **Google Data Analytics Specialization** - Coursera
+- **EF SET C1 Advanced English**
+- Certificaciones en Laravel, SQL, BigQuery
+
+---
+
+## 🌟 Mi Filosofia
+
+> **"Transformar procesos manuales en sistemas que funcionan solos"**
 
 1. **Entiendo el problema** antes de proponer la solucion
-2. **Automatizo lo repetitivo** (30 min -> 2 min es mi record)
+2. **Automatizo lo repetitivo** - De 30 minutos a 2 minutos
 3. **Mido todo** - Si no tiene metricas, no existe
 4. **Itero rapido** - MVP en semanas, no meses
-5. **Documento para mi yo del futuro** (que me lo va a agradecer)
 
 ---
 
-## 🤝 Trabajemos juntos
-
-Tenes un proceso manual que te esta volviendo loco? Un Excel que ya no da mas? Una idea que necesita codigo?
+## 🤝 Conectemos
 
 <div align="center">
 
-### 📬 Encontrame en:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gonzamv)
-[![Email](https://img.shields.io/badge/Email-Hablemos-EA4335?style=for-the-badge&logo=gmail)](mailto:gmartinezvisintini@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Mira_mas-4A7C4A?style=for-the-badge&logo=safari)](https://gonzalo-mv.xyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil_Profesional-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gonzamv)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Proyectos-4A7C4A?style=for-the-badge&logo=safari)](https://gonzalo-mv.xyz)
+[![Email](https://img.shields.io/badge/Email-Escribime-EA4335?style=for-the-badge&logo=gmail)](mailto:gmartinezvisintini@gmail.com)
 
 </div>
 
 ---
 
-## ⚡ Fun Facts
+## ⚡ Random Facts
 
-- 🎯 Mi record: 15 modulos integrados en 8 meses (y funcionando)
-- ☕ Debuggeo mejor despues del 3er cafe
-- 🌱 Creo que la IA no nos va a reemplazar, pero si a los que no la usen
-- 🎮 Mi IDE tiene tema oscuro, mi cafe no tiene azucar
-- 📚 Leo documentacion por diversion (si, soy ese tipo)
+- 🧉 Debuggeo mejor con mate
+- 🎯 15 módulos integrados en 8 meses (mi record actual)
+- 🌱 La IA no nos va a reemplazar, pero sí a los que no la usen
+- 📚 Leo documentación por diversión
+- 🎮 Dark mode everywhere
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4A7C4A,5A965A,6AAA6A,7ABE7A,8AD28A&height=100&section=footer" width="100%"/>
-
-**Llegaste hasta aca? Dale una ⭐ a algun repo que te guste!**
+**Si llegaste hasta aca, revisa mis repos y dale ⭐ a alguno que te guste!**
 
 </div>

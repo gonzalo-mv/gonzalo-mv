@@ -27,7 +27,7 @@ Trabajo desarrollando sistemas de gestión empresarial. Mi enfoque es crear soft
 
 ## 💼 Proyectos
 
-### 🚛 **KeyRutas ERP**
+### 🚛[**KeyRutas**](https://keyrutas.com)
 Sistema completo para empresas de transporte. Gestión integral de flota, viajes, choferes, gastos y mantenimiento. Arquitectura modular con IA integrada para automatización de procesos.
 
 **Stack:** `Laravel` `MySQL` `Alpine.js` `Livewire` `Tailwind CSS`  
@@ -41,7 +41,7 @@ E-commerce con inventario en tiempo real, carrito de compras y panel administrat
 
 ---
 
-### 🔐 [**KeyRTO**](https://rto.keysoftworks.com)
+### **KeyRTO**
 Sistema para certificados gubernamentales RTO con verificación QR. Múltiples capas de seguridad y trazabilidad completa.
 
 **Stack:** `Laravel` `MySQL` `Alpine.js` `Tailwind CSS`   

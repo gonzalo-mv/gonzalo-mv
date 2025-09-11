@@ -16,18 +16,16 @@
 
 ## Sobre mi
 
-**Full Stack Developer @ KeySoftworks**
+**Web Developer KeySoftworks**
 
-Entiendo el negocio antes de escribir código. Mi logro actual: ERP completo con 15+ módulos en 8 meses.
-
-> *"El mejor código es el que no necesita manual"*
+Entiendo el negocio antes de escribir código. Mi logro actual: KeyRutas, TMS completo para el mercado argentino.
 
 Trabajo desarrollando sistemas de gestión empresarial. Mi enfoque es crear software que realmente se use: interfaces intuitivas y backends sólidos que resuelven problemas operativos concretos.
 
 ---
 
 
-## 💼 Proyectos en Produccion
+## 💼 Proyectos
 
 ### 🚛 **KeyRutas ERP**
 Sistema completo para empresas de transporte. Gestión integral de flota, viajes, choferes, gastos y mantenimiento. Arquitectura modular con IA integrada para automatización de procesos.

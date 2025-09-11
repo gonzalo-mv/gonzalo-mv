@@ -26,7 +26,6 @@ Trabajo desarrollando sistemas de gestión empresarial. Mi enfoque es crear soft
 
 ---
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%">
 
 ## 💼 Proyectos en Produccion
 
@@ -54,35 +53,26 @@ Sistema para certificados gubernamentales RTO con verificación QR. Múltiples c
 ### 🌐 [**KeySoftworks Website**](https://keysoftworks.com)
 Landing con showcase de productos, optimizada para SEO y conversión.
 
-**Stack:** `Astro` `TypeScript` `Tailwind CSS`
+**Stack:** `Astro` `Tailwind CSS`
 
 ---
-
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
-</div>
 
 ## 🛠️ Tecnologías
+ PHP • Laravel • MySQL • Livewire • Blade  
 
-**Backend:** PHP • Laravel • MySQL • Livewire • Blade  
-**Frontend:** Alpine.js • JavaScript • HTML • CSS  
-**Styling:** Tailwind CSS  
-**Tools:** Astro • TypeScript • Notion • Miro • GSAP  
-**APIs:** Google Vision AI • Gemini API • Integraciones REST  
+ Alpine.js • JavaScript •  Tailwind CSS  
+
+ Astro • Notion • Miro 
+
 
 ---
 
-## 🎓 Formacion
+## 🎓 Formación
 
-- **Tecnico en Desarrollo de Software** - ITU UNCUYO (2do año en curso)
+- **Técnico en Desarrollo de Software** - ITU UNCUYO (2do año en curso)
 - **Google Data Analytics Specialization** - Coursera
 - **EF SET C1 Advanced English**
+- Certificaciones en Laravel, SQL, BigQuery
 
 
 ## 🤝 Conectemos
@@ -97,14 +87,6 @@ Landing con showcase de productos, optimizada para SEO y conversión.
 
 ---
 
-## ⚡ Random Facts
-
-- 🧉 Debuggeo mejor con mate
-- 🎯 15 módulos integrados en 8 meses (mi record actual)
-- 🌱 La IA no nos va a reemplazar, pero sí a los que no la usen
-- 📚 Leo documentación por diversión
-- 🎮 Dark mode everywhere
-
 <div align="center">
   <img src="https://github.com/mayhemantt/mayhemantt/blob/main/icons/coffee.gif" width="50">
   <em>Actually mate, not coffee ☝️</em>
@@ -117,3 +99,5 @@ Landing con showcase de productos, optimizada para SEO y conversión.
 **Si llegaste hasta aca, revisa mis repos y dale ⭐ a alguno que te guste!**
 
 </div>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%">

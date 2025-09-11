@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gonzamv-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gonzamv)
-[![Portfolio](https://img.shields.io/badge/Portfolio-gonzalo--mv.xyz-4A7C4A?style=for-the-badge&logo=safari&logoColor=white)](https://gonzalo-mv.xyz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-gonzalo--mv.xyz-4A7C4A?style=for-the-badge&logo=safari&logoColor=white)](https://gonzalomv.xyz)
 [![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gmartinezvisintini@gmail.com)
 
 </div>
@@ -78,7 +78,7 @@ Landing con showcase de productos, optimizada para SEO y conversión.
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil_Profesional-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gonzamv)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Proyectos-4A7C4A?style=for-the-badge&logo=safari)](https://gonzalo-mv.xyz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Proyectos-4A7C4A?style=for-the-badge&logo=safari)](https://gonzalomv.xyz)
 [![Email](https://img.shields.io/badge/Email-Escribime-EA4335?style=for-the-badge&logo=gmail)](mailto:gmartinezvisintini@gmail.com)
 
 </div>
